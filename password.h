@@ -1,0 +1,2 @@
+#define PC_PASSWORD 12,24,94
+#define PC_PASSWORD_LEN 3
