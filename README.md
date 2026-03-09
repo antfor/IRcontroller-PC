@@ -11,4 +11,3 @@ This was just for a proof of concept.
 <div align="center">
   <img src="/design/schematic.png"  title="schematic">
 </div>
-
